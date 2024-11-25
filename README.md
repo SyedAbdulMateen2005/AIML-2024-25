@@ -18,7 +18,7 @@
 
 
 1. [Lab 01](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab01_AIML.ipynb): Introduction to Python Libraries-Numpy
-2. [Lab 02](): Implement AI Search
+2. [Lab 02](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab02_AIML.ipynb): Implement AI Search
 3. [Lab 03](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/lab03_AIML.ipynb): Implement AI Game Strategy
 4. [Lab 04](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab04_AIML.ipynb): Implement Linear Regression model using US Housing Data
 5. [Lab 05](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab05_AIML.ipynb): Logistic Regression with Titanic Data Set
