@@ -21,7 +21,7 @@
 2. [Lab 02](): Implement AI Search
 3. [Lab 03](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/lab03_AIML.ipynb): Implement AI Game Strategy
 4. [Lab 04](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab04_AIML.ipynb): Implement Linear Regression model using US Housing Data
-5. [Lab 05](): Logistic Regression with Titanic Data Set
+5. [Lab 05](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab05_AIML.ipynb): Logistic Regression with Titanic Data Set
 6. [Lab 06](): Implement the K Nearest Neighbour Classification using Classified Manufacturing Dataset
 7. [Lab 07](): Implement Support Vector Machine Classification using Student Drop out Dataset
 8. [Lab 08]():Implement Decision Tree Classification using OpenML Car Dataset
