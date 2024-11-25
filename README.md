@@ -25,7 +25,7 @@
 6. [Lab 06](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab06_AIML.ipynb): Implement the K Nearest Neighbour Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab07_AIML.ipynb): Implement Support Vector Machine Classification using Student Drop out Dataset
 8. [Lab 08](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab08_AIML.ipynb):Implement Decision Tree Classification using OpenML Car Dataset
-9. [Lab 09](): Implement Random Forest Ensemble Model using Lending Data
+9. [Lab 09](https://github.com/SyedAbdulMateen2005/AIML-2024-25/blob/main/Lab09_AIML.ipynb): Implement Random Forest Ensemble Model using Lending Data
 10. [Lab 10]():  Implement K-Means Clustering using Synthetic Data
 11. [Lab 10.2]():Implement K-Means Clustering using Synthetic Data from Blobs
 
